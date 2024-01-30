@@ -1,3 +1,3 @@
 # TP13-Hackintosh
 
-My EFI for Hackintosh on ThinkPad 13.
+My config.plist for Hackintosh on ThinkPad 13.
